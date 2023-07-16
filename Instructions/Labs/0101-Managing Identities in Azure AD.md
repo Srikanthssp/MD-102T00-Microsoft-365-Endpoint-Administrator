@@ -52,7 +52,7 @@ You've also been told that several more employees will be hired over the next co
 
 10. Select the **Navigation menu** and then select **Show all**.
 
-11. In the Navigation pane, under **Admin centers** select **Azure Active Directory**. The Microsoft Entra admin center opens.
+11. In the Navigation pane, under **Admin centers** select **Identity**. The Microsoft Entra admin center opens.
 
 12. In the Microsoft Entra admin center, in the navigation pane, select **Users** and in the expanded menu that appears select **All users**.
 
