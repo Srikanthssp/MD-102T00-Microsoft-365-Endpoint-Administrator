@@ -222,7 +222,7 @@ All the users of the Research department at Contoso require Microsoft 365 Apps. 
 
 5. In the details pane, under **Monitor** and under **User install status**, verify that **1** is displayed under Installed.
 
-   _Note: that it may take some time for the information to display._
+   _Note: that it may take some time for the information to display.**Do not wait for the display as you verified in the previous task, continue with the next lab**._
    
    _Note: This indicates that the app is installed on one device and for one user._
 
