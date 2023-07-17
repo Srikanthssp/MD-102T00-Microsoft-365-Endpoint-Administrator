@@ -84,7 +84,7 @@ You use Microsoft Intune to manage desktops and apps for Contoso Corporation. Th
 
 1. Switch to **SEA-WS1**.
 
-2. Sign in as **Aaron Nicholls** with the PIN **102938**.
+2. Sign in as **Aaron Nicholls** with the Password **Pa55w.rd**.
 
 3. On the taskbar, select **Microsoft Edge**.
 
@@ -196,7 +196,7 @@ All the users of the Research department at Contoso require Microsoft 365 Apps. 
 
 1. Switch to **SEA-WS1** and wait approximately 10-15 minutes for the Microsoft 365 Suite to install on the device.
 
-2. Sign out of **SEA-WS1** and then sign back in as **Aaron Nicholls** with the PIN **102938**.
+2. Sign out of **SEA-WS1** and then sign back in as **Aaron Nicholls** with the Password **Pa55w.rd**.
 
 3. On **SEA-WS1**, on the taskbar, select **Start** and then select the **Settings** app.
 
